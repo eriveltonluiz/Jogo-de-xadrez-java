@@ -1,6 +1,6 @@
 package Aplicacao;
 
-import TabuleiroJogo.JogoXadrez;
+import CamadaXadrez.JogoXadrez;
 import TabuleiroJogo.Tabuleiro;
 
 public class main_xadrez {
